@@ -1,0 +1,6 @@
+{
+  "name": "WaitMate",
+  "description": "Smart tracker for price drops and availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
