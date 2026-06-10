@@ -591,7 +591,7 @@ function RecommendationBadge({ recommendation }: { recommendation: Tracker['reco
   const text = {
     buy: 'Buy Now!',
     wait: 'Wait',
-    unknown: 'Analying',
+    unknown: 'Analyzing',
   };
 
   return (
