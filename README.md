@@ -1,5 +1,8 @@
 # WaitMate
+
 **WaitMate** is a smart price and availability sentinel designed to help you track prices for flights, products, hotels, and events. It features real-time pulse monitoring, AI-powered purchasing insights using Gemini, and a sleek, responsive dashboard.
+
+Developed with passion by **Meet Potdar**.
 
 ## Features
 
